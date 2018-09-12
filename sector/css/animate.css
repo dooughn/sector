@@ -1,0 +1,10 @@
+@keyframes side_r {
+ 0%		{left: 100%; top: 0%;}
+ 100% 	{left: 0%; top: 0%;}
+}
+
+@keyframes side_l {
+ 0%		{right: 100%; top: 0%;}
+ 100% 	{right: 0%; top: 0%;}
+}
+
